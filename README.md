@@ -5,7 +5,7 @@ In this project, we focused on classifying the argumentative stance of tweets ab
 
 ## Resources
 - `ImageArg-image\data`: Contains the ImageArg dataset (to download the images, follow the instructions here: [imageArg](https://imagearg.github.io)).
-- This Repository contain only code for pure image classification for both datasets with VGG16.
+- This Repository contains only code for pure image classification for both datasets with VGG16.
   - `ImageArg_VGG16(abortion).ipynb`: image classification on Abortion datasets
   - `ImageArg_VGG16(gun).ipynb`: image classification on Gun Control datasets
 
